@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020985583403",
+    "project_id": "nichotix-3baa0",
+    "storage_bucket": "nichotix-3baa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020985583403:android:94f8ff034ef8f3ab2f076e",
+        "android_client_info": {
+          "package_name": "com.nicholas.tugas_besar_2072008"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020985583403-nbj4msf62imeir780oj0scfrbqh6iu0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nicholas.tugas_besar_2072008",
+            "certificate_hash": "9b0738298c65854db5cf5453412331817351d15a"
+          }
+        },
+        {
+          "client_id": "1020985583403-8rajufbk5eq5ots3vh24htm2jv9qf6b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEWSj1-uJM7OOnU_T3AKRHW2fuuEMP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020985583403-8rajufbk5eq5ots3vh24htm2jv9qf6b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
